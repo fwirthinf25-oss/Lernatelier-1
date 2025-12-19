@@ -52,3 +52,12 @@ eine Moodle Mission machen in 319
 30 minuten PPP lesen
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... Bei den Powerpoints informiert und weitergelesen, probiert zu verstehen was ich gemacht habe.  (100-150 Wörter))
+
+## Planung 19.12.2025
+3 bis 5 klar messbare Arbeitspakete.
+117 Aufgaben vom Dienstag aufholen 
+3 Moodle Abgaben und eine Dokumentabgabe
+## Lernperiode Reflexion 
+In dieser Lernperiode habe ich alle geplanten Moodle missionen vom Dienstag abgeschlossen und auch das Dokument das ich am Dienstag nicht fertig machen konnte
+
+
