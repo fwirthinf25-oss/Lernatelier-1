@@ -56,8 +56,13 @@ eine Moodle Mission machen in 319
 ## Planung 19.12.2025
 3 bis 5 klar messbare Arbeitspakete.
 117 Aufgaben vom Dienstag aufholen 
+
+
 3 Moodle Abgaben und eine Dokumentabgabe
 ## Lernperiode Reflexion 
 In dieser Lernperiode habe ich alle geplanten Moodle missionen vom Dienstag abgeschlossen und auch das Dokument das ich am Dienstag nicht fertig machen konnte
 
 
+## Plannung 20.03.2026
+
+An unserem Roblox spiel das Map design fertig machen in etwa 2h danach mit den Codes von dem Glücksrad anfangen und so weit wie möglich es geht mit testen danach
