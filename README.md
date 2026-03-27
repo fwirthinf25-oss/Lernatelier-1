@@ -66,3 +66,15 @@ In dieser Lernperiode habe ich alle geplanten Moodle missionen vom Dienstag abge
 ## Plannung 20.03.2026
 
 An unserem Roblox spiel das Map design fertig machen in etwa 2h danach mit den Codes von dem Glücksrad anfangen und so weit wie möglich es geht mit testen danach
+
+## Lernperioden Reflexion
+Map design war viel aufwendiger als gedacht und nicht sehr weit gekommen dafür aber das Glucksrad programmiert fehlt nur noch richtige UI sodass man sieht was man bekommt. Auch noch ein Code geschrieben das man im Spiel sprinten kann (1.75x schneller) Hatten probleme das das Script bei Ledion auch geladen ist und angezeigt wird.
+
+## Plannung 27.4.26
+
+## 3 Messbare Ziele
+1. Map design weitermachen so dass man von der Base zu dem Kampfring laufen kann
+2. Den Code für das Haus fertigstellen
+3. Mehr GUI erstellen und einfügen
+
+An dem Map design weitermachen schauen das man den Spawnpoint besser macht und das Script für die Base fertig machen sodass man die Brainrots reinstellen kann. Inventar Knopf machen und das man sachen reinstellen kann
