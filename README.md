@@ -125,3 +125,10 @@ Ganzes spiel abgebrochen und neu angefangen weil es nicht funktioniert hat und w
 
 ## Plannung/Ziel 22.05.2026
 Wider unsere alten Codes einfügen und testen ob es jetzt funktioniert. Unsere Map mehr gestalten und 10 Häuser drauf bauen danach einfach die Umgebung weniger leer machen das es besser aussieht (Bäume etc).Spielbarer Kern-Loop bis 22.05.2026: Auf einer der 10 Häuser-Bases den Basis-Loop fertig haben (Spawn, Sprint, Glücksrad einmal drehen, Brainrot auf Pad stellen). Messbar daran, dass zwei Teammitglieder den Loop fehlerfrei durchspielen können.
+
+## Lernperiode Reflexion 
+Alles ging gut so weit alten Codes wider eingefügt diesmal ist alles gegangen
+Das geplante von letztem mal konnten wir machen.
+
+## Plannung 29.05.2026
+ 10 Häuser, mindestens 30 Bäume und 3 verschiedene Bodenmaterialien platzieren, sodass von der Standardkamera kein leerer Bereich grösser als ein Hausgrundriss zu sehen ist. Danach das Glücksrad und das Fight-System (1v1, Brainrot klauen) testen und prüfen, ob beides fehlerfrei läuft.
