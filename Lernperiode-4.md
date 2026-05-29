@@ -8,10 +8,10 @@ In allen Modulen probieren mindestens eine 5 zu erreichen.
 Strukturierter an Projekten arbeiten. Bei unserem Roblox-Spiel haben wir gemerkt, dass es viel besser läuft, wenn man zuerst die Struktur sauber aufbaut statt einfach loszulegen. Auch bei Fehlern nicht gleich alles abbrechen, sondern in Ruhe schauen wo das Problem liegt.
 Grobplanung Projekte
 Im Team an unserem Roblox-Spiel mit Brainrot-Thema weiterarbeiten. Dazu gehört das Basis-System mit eigenen Plots, das Glücksrad mit verschiedenen Rarities, das 1v1-Fight-System, Quests und die Map-Gestaltung mit Häusern und Umgebung.
-Grobplanung – Ziele
+## Grobplanung Ziele
 Den spielbaren Kern-Loop fertig kriegen, also Spawn, Sprint, Glücksrad drehen, Brainrot equippen und Fight. Die Map mit 10 Häusern und gestalteter Umgebung aufbauen, sodass sie nicht mehr leer wirkt.
-Lernperiode Reflexion 19.09.2025
-Heute habe ich an dem Modul 1715 gearbeitet und es beendet, danach habe ich noch mit 1718 angefangen und wir haben Ideen für die Videos gesucht um das nächste mal direkt anfangen zu können.
+## Lernperiode Reflexion 19.09.2025
+wir haben Ideen für unser Spiel gesucht um das nächste mal direkt anfangen zu können.
 
 ## Lernperiode Reflexion:
 Ganzes spiel abgebrochen und neu angefangen weil es nicht funktioniert hat und wir viele Probleme hatten ziele von letztes mal konnten nicht gemacht werden
