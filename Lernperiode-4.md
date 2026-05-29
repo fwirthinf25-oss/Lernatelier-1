@@ -30,4 +30,4 @@ Das geplante von letztem mal konnten wir machen.
 Alles ging gut, wir konnten unsere alten Codes wieder einfügen und diesmal hat alles funktioniert. Das geplante vom letzten Mal konnten wir umsetzen.
 
  ## Plannung 05.06.2026:
-Map-Umgebung ausbauen mindestens 30 Bäume und 3 verschiedene Bodenmaterialien platzieren, sodass von der Standardkamera kein leerer Bereich grösser als ein Hausgrundriss zu sehen ist. Zusätzlich am Code weiterarbeiten und das Glücksrad testen, damit man mit Coins drehen kann und einen Brainrot je nach Rarity bekommt.
+Map-Umgebung ausbauen mindestens 30 Bäume und 3 verschiedene Bodenmaterialien platzieren, sodass von der Standardkamera kein leerer Bereich grösser als ein Hausgrundriss zu sehen ist. Zusätzlich am Code weiterarbeiten und das Glücksrad testen, damit man mit Coins drehen kann und einen Brainrot je nach Seltenheit bekommt.
