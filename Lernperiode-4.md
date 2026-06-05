@@ -34,10 +34,10 @@ Das ganze Spiel wurde abgebrochen und neu angefangen, weil es nicht funktioniert
 ### Planung 22.05.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Alte Codes wieder einfügen und testen ob es jetzt funktioniert
-- [ ] Map gestalten und 10 Häuser drauf bauen
-- [ ] Umgebung weniger leer machen (Bäume etc.)
-- [ ] Spielbaren Kern-Loop fertigstellen (Spawn, Sprint, Glücksrad, Brainrot auf Pad stellen)
+- [x] Alte Codes wieder einfügen und testen ob es jetzt funktioniert
+- [x] Map gestalten und 10 Häuser drauf bauen
+- [x] Umgebung weniger leer machen (Bäume etc.)
+- [x] Spielbaren Kern-Loop fertigstellen (Spawn, Sprint, Glücksrad, Brainrot auf Pad stellen)
 
 ## Lernperiode Reflexion
 Alles ging gut so weit. Die alten Codes wurden wieder eingefügt und diesmal hat alles funktioniert. Das Geplante vom letzten Mal konnte umgesetzt werden.
@@ -47,9 +47,9 @@ Alles ging gut so weit. Die alten Codes wurden wieder eingefügt und diesmal hat
 ### Planung 29.05.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 10 Häuser, mindestens 30 Bäume und 3 verschiedene Bodenmaterialien platzieren, sodass von der Standardkamera kein leerer Bereich grösser als ein Hausgrundriss zu sehen ist
-- [ ] Glücksrad testen und prüfen ob es fehlerfrei läuft
-- [ ] Fight-System (1v1, Brainrot klauen) testen und prüfen ob es fehlerfrei läuft
+- [x] 10 Häuser, mindestens 30 Bäume und 3 verschiedene Bodenmaterialien platzieren, sodass von der Standardkamera kein leerer Bereich grösser als ein Hausgrundriss zu sehen ist
+- [x] Glücksrad testen und prüfen ob es fehlerfrei läuft
+- [x] Fight-System (1v1, Brainrot klauen) testen und prüfen ob es fehlerfrei läuft
 
 ## Lernperiode Reflexion
 Alles ging gut. Wir konnten unsere alten Codes wieder einfügen und diesmal hat alles funktioniert. Das Geplante vom letzten Mal konnte umgesetzt werden.
@@ -59,9 +59,9 @@ Alles ging gut. Wir konnten unsere alten Codes wieder einfügen und diesmal hat 
 ### Planung 05.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Map-Umgebung ausbauen: mindestens 30 Bäume und 3 verschiedene Bodenmaterialien platzieren, sodass von der Standardkamera kein leerer Bereich grösser als ein Hausgrundriss zu sehen ist
-- [ ] Am Code weiterarbeiten
-- [ ] Glücksrad testen, damit man mit Coins drehen kann und einen Brainrot je nach Seltenheit bekommt
+- [x] Map-Umgebung ausbauen: mindestens 30 Bäume und 3 verschiedene Bodenmaterialien platzieren, sodass von der Standardkamera kein leerer Bereich grösser als ein Hausgrundriss zu sehen ist
+- [x] Am Code weiterarbeiten
+- [x] Glücksrad testen, damit man mit Coins drehen kann und einen Brainrot je nach Seltenheit bekommt
 
 ## Lernperiode Reflexion 05.06.2026
 Heute haben wir die Map-Umgebung weiter ausgebaut und mit dem Platzieren von Bäumen und verschiedenen Bodenmaterialien begonnen, sodass die Map weniger leer wirkt. Ausserdem haben wir am Code weitergearbeitet und das Glücksrad getestet. Es gibt noch kleinere Anpassungen, die gemacht werden müssen, damit das Drehen mit Coins und die Brainrot-Vergabe je nach Seltenheit zuverlässig funktioniert.
