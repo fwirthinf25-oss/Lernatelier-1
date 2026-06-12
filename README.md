@@ -132,3 +132,14 @@ Das geplante von letztem mal konnten wir machen.
 
 ## Plannung 29.05.2026
  10 Häuser, mindestens 30 Bäume und 3 verschiedene Bodenmaterialien platzieren, sodass von der Standardkamera kein leerer Bereich grösser als ein Hausgrundriss zu sehen ist. Danach das Glücksrad und das Fight-System (1v1, Brainrot klauen) testen und prüfen, ob beides fehlerfrei läuft.
+
+## Lernperiode Reflexion
+Wir haben an unserem bestehenden Code Bugfixes gemacht, die noch offen waren, und danach weiter an der GUI gearbeitet. Die GUI wurde erweitert und verbessert, damit das Spiel übersichtlicher und benutzerfreundlicher wird.
+## Planung 12.06.2026
+10 Häuser, mindestens 30 Bäume und 3 verschiedene Bodenmaterialien platzieren, sodass von der Standardkamera kein leerer Bereich grösser als ein Hausgrundriss zu sehen ist. Danach das Glücksrad und das Fight-System (1v1, Brainrot klauen) testen und prüfen, ob beides fehlerfrei läuft.
+
+## Lernperiode Reflexion
+Wir haben Bugfixes an unserem Code gemacht und mehr GUI hinzugefügt. Beides hat gut funktioniert.
+## Planung 19.06.2026
+Wir wollen das Glücksrad und das Fight-System fertig stellen und testen ob alles fehlerfrei läuft. Ausserdem wollen wir die Map weiter ausbauen und mehr Details hinzufügen.
+
