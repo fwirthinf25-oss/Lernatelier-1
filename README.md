@@ -143,3 +143,11 @@ Wir haben Bugfixes an unserem Code gemacht und mehr GUI hinzugefügt. Beides hat
 ## Planung 19.06.2026
 Wir wollen das Glücksrad und das Fight-System fertig stellen und testen ob alles fehlerfrei läuft. Ausserdem wollen wir die Map weiter ausbauen und mehr Details hinzufügen.
 
+
+## Reflexion:
+Wir haben das Glücksrad und das Fight-System fertiggestellt und getestet, beides läuft fehlerfrei. Auch die Map haben wir weiter ausgebaut und mehr Details hinzugefügt.
+## Planung 26.06.2026
+Wir wollen das Booster-System und die Quests fertigstellen und testen, ob alles richtig funktioniert (Booster gibt +5% Speed und Stärke im nächsten Fight, Quests geben Coins als Belohnung). Ausserdem wollen wir die Bases mit dem Lock-System ausstatten, damit andere Spieler nicht einfach reinlaufen und Brainrots klauen können.
+
+
+
