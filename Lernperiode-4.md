@@ -73,3 +73,28 @@ Heute haben wir die Map-Umgebung weiter ausgebaut und mit dem Platzieren von Bä
  - [ ] Map-Umgebung abschliessen: 30 Bäume und 3 verschiedene Bodenmaterialien vollständig platziert
  - [ ] Fight-System (1v1, Brainrot klauen) auf Fehler prüfen und wenn nötig fixen
  - [ ] GUI für Inventar und Brainrot-Anzeige weiter ausbauen
+
+## Lernperiode Reflexion
+Wir haben Bugfixes an unserem Code gemacht und mehr GUI hinzugefügt. Beides hat gut funktioniert.
+
+## Planung 19.06.2026
+Wir wollen das Glücksrad und das Fight-System fertig stellen und testen ob alles fehlerfrei läuft. Ausserdem wollen wir die Map weiter ausbauen und mehr Details hinzufügen.
+3 bis 5 klar messbare Arbeitspakete:
+
+ - [ ]Glücksrad vollständig fertigstellen: Coins-System und Brainrot-Vergabe nach Seltenheit fehlerfrei testen
+ - [ ]Map-Umgebung abschliessen: 30 Bäume und 3 verschiedene Bodenmaterialien vollständig platziert
+ - [ ]Fight-System (1v1, Brainrot klauen) auf Fehler prüfen und wenn nötig fixen
+ - [ ]GUI für Inventar und Brainrot-Anzeige weiter ausbauen
+
+## Reflexion:
+Wir haben das Glücksrad und das Fight-System fertiggestellt und getestet, beides läuft fehlerfrei. Auch die Map haben wir weiter ausgebaut und mehr Details hinzugefügt.
+
+## Planung 26.06.2026
+Wir wollen das Booster-System und die Quests fertigstellen und testen, ob alles richtig funktioniert (Booster gibt +5% Speed und Stärke im nächsten Fight, Quests geben Coins als Belohnung). Ausserdem wollen wir die Bases mit dem Lock-System ausstatten, damit andere Spieler nicht einfach reinlaufen und Brainrots klauen können.
+
+3 bis 5 klar messbare Arbeitspakete:
+
+ - [ ]Booster-System fertigstellen: +5% Speed und +5% Stärke im nächsten Fight testen
+ - [ ]Quests fertigstellen: Coin-Belohnungen für abgeschlossene Quests fehlerfrei prüfen
+ - [ ]Lock-System für die Bases einbauen: Tor lässt sich öffnen und schliessen
+ - [ ]Testen, dass fremde Spieler bei abgeriegelter Base keine Brainrots klauen können
