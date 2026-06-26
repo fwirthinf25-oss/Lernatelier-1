@@ -81,10 +81,10 @@ Wir haben Bugfixes an unserem Code gemacht und mehr GUI hinzugefügt. Beides hat
 Wir wollen das Glücksrad und das Fight-System fertig stellen und testen ob alles fehlerfrei läuft. Ausserdem wollen wir die Map weiter ausbauen und mehr Details hinzufügen.
 3 bis 5 klar messbare Arbeitspakete:
 
- - [x]Glücksrad vollständig fertigstellen: Coins-System und Brainrot-Vergabe nach Seltenheit fehlerfrei testen
- - [x]Map-Umgebung abschliessen: 30 Bäume und 3 verschiedene Bodenmaterialien vollständig platziert
- - [x]Fight-System (1v1, Brainrot klauen) auf Fehler prüfen und wenn nötig fixen
- - [x]GUI für Inventar und Brainrot-Anzeige weiter ausbauen
+ - [x] Glücksrad vollständig fertigstellen: Coins-System und Brainrot-Vergabe nach Seltenheit fehlerfrei testen
+ - [x] Map-Umgebung abschliessen: 30 Bäume und 3 verschiedene Bodenmaterialien vollständig platziert
+ - [x] Fight-System (1v1, Brainrot klauen) auf Fehler prüfen und wenn nötig fixen
+ - [x] GUI für Inventar und Brainrot-Anzeige weiter ausbauen
 
 ## Reflexion:
 Wir haben das Glücksrad und das Fight-System fertiggestellt und getestet, beides läuft fehlerfrei. Auch die Map haben wir weiter ausgebaut und mehr Details hinzugefügt.
@@ -94,7 +94,7 @@ Wir wollen das Booster-System und die Quests fertigstellen und testen, ob alles 
 
 3 bis 5 klar messbare Arbeitspakete:
 
- - [ ]Booster-System fertigstellen: +5% Speed und +5% Stärke im nächsten Fight testen
- - [ ]Quests fertigstellen: Coin-Belohnungen für abgeschlossene Quests fehlerfrei prüfen
- - [ ]Lock-System für die Bases einbauen: Tor lässt sich öffnen und schliessen
- - [ ]Testen, dass fremde Spieler bei abgeriegelter Base keine Brainrots klauen können
+ - [ ] Booster-System fertigstellen: +5% Speed und +5% Stärke im nächsten Fight testen
+ - [ ] Quests fertigstellen: Coin-Belohnungen für abgeschlossene Quests fehlerfrei prüfen
+ - [ ] Lock-System für die Bases einbauen: Tor lässt sich öffnen und schliessen
+ - [ ] Testen, dass fremde Spieler bei abgeriegelter Base keine Brainrots klauen können
