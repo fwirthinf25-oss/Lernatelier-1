@@ -69,10 +69,10 @@ Heute haben wir die Map-Umgebung weiter ausgebaut und mit dem Platzieren von Bä
 ## Planung 12.06.2026
 3 bis 5 klar messbare Arbeitspakete.
 
- - [ ] Glücksrad vollständig fertigstellen: Coins-System und Brainrot-Vergabe nach Seltenheit fehlerfrei testen
- - [ ] Map-Umgebung abschliessen: 30 Bäume und 3 verschiedene Bodenmaterialien vollständig platziert
- - [ ] Fight-System (1v1, Brainrot klauen) auf Fehler prüfen und wenn nötig fixen
- - [ ] GUI für Inventar und Brainrot-Anzeige weiter ausbauen
+ - [x] Glücksrad vollständig fertigstellen: Coins-System und Brainrot-Vergabe nach Seltenheit fehlerfrei testen
+ - [x] Map-Umgebung abschliessen: 30 Bäume und 3 verschiedene Bodenmaterialien vollständig platziert
+ - [x] Fight-System (1v1, Brainrot klauen) auf Fehler prüfen und wenn nötig fixen
+ - [x] GUI für Inventar und Brainrot-Anzeige weiter ausbauen
 
 ## Lernperiode Reflexion
 Wir haben Bugfixes an unserem Code gemacht und mehr GUI hinzugefügt. Beides hat gut funktioniert.
@@ -81,10 +81,10 @@ Wir haben Bugfixes an unserem Code gemacht und mehr GUI hinzugefügt. Beides hat
 Wir wollen das Glücksrad und das Fight-System fertig stellen und testen ob alles fehlerfrei läuft. Ausserdem wollen wir die Map weiter ausbauen und mehr Details hinzufügen.
 3 bis 5 klar messbare Arbeitspakete:
 
- - [ ]Glücksrad vollständig fertigstellen: Coins-System und Brainrot-Vergabe nach Seltenheit fehlerfrei testen
- - [ ]Map-Umgebung abschliessen: 30 Bäume und 3 verschiedene Bodenmaterialien vollständig platziert
- - [ ]Fight-System (1v1, Brainrot klauen) auf Fehler prüfen und wenn nötig fixen
- - [ ]GUI für Inventar und Brainrot-Anzeige weiter ausbauen
+ - [x]Glücksrad vollständig fertigstellen: Coins-System und Brainrot-Vergabe nach Seltenheit fehlerfrei testen
+ - [x]Map-Umgebung abschliessen: 30 Bäume und 3 verschiedene Bodenmaterialien vollständig platziert
+ - [x]Fight-System (1v1, Brainrot klauen) auf Fehler prüfen und wenn nötig fixen
+ - [x]GUI für Inventar und Brainrot-Anzeige weiter ausbauen
 
 ## Reflexion:
 Wir haben das Glücksrad und das Fight-System fertiggestellt und getestet, beides läuft fehlerfrei. Auch die Map haben wir weiter ausgebaut und mehr Details hinzugefügt.
