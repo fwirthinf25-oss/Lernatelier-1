@@ -98,3 +98,16 @@ Wir wollen das Booster-System und die Quests fertigstellen und testen, ob alles 
  - [ ] Quests fertigstellen: Coin-Belohnungen für abgeschlossene Quests fehlerfrei prüfen
  - [ ] Lock-System für die Bases einbauen: Tor lässt sich öffnen und schliessen
  - [ ] Testen, dass fremde Spieler bei abgeriegelter Base keine Brainrots klauen können
+
+## Reflexion:
+Wir haben das Booster-System und die Quests fertiggestellt und getestet, beides funktioniert richtig. Auch die GUI für die Quest-Anzeige haben wir eingebaut und die Map mit mehr Details gefüllt.
+
+## Plannung 03.07.2026
+Wir wollen das Lock-System für die Bases fertigstellen und testen, damit andere Spieler bei abgeriegelter Base keine Brainrots klauen können. Ausserdem wollen wir das ganze Spiel einmal komplett durchtesten und die letzten Bugs beheben das möglichst schnell schaffen das wir Zeit haben ein paar bugs zu verbessern
+3 bis 5 klar messbare Arbeitspakete:
+
+- [ ] Lock-System fertigstellen: Tor lässt sich öffnen und schliessen
+- [ ] Testen, dass fremde Spieler bei geschlossener Base nicht reinkommen und keine Brainrots klauen können
+- [ ] Kompletten Spielablauf durchtesten (Spawn, Sprint, Glücksrad, Equip, Fight, Quest, Booster)
+ Gefundene Bugs notieren und beheben
+- [ ] Coins- und Datenspeicherung prüfen, dass nach dem Verlassen alles erhalten bleibt
